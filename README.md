@@ -1,2 +1,2 @@
-pip install os
-pip install requests
+Модули:
+os, requests
